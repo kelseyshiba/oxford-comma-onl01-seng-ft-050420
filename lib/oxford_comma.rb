@@ -9,8 +9,3 @@ def oxford_comma(array)
     false 
   end
 end
-
-def oxford_comma(array)
-  if array.length < 3
-    
-end
